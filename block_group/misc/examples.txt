@@ -1,0 +1,12 @@
+http://sampleserver1.arcgisonline.com/ArcGIS/rest/services/Specialty/ESRI_StateCityHighway_USA/MapServer/1/query?where=UPPER(STATE_NAME)=UPPER('colorado')
+
+
+http://egis.hud.gov/arcgis/services
+
+
+http://egis.hud.gov/ArcGIS/rest/services/oshc/Fhea/MapServer/5/query?where=STATE='36'
+
+http://egis.hud.gov/ArcGIS/rest/services/oshc/Fhea/MapServer/5/query?where=STATE='36'AND COUNTY = '059'
+
+
+http://egis.hud.gov/ArcGIS/rest/services/oshc/Fhea/MapServer/5/query?where=STATE=%2736%27

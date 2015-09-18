@@ -1,0 +1,6022 @@
+{
+  "displayFieldName" : "NAME",
+  "fieldAliases" : {
+    "GEOID" : "GEOID",
+    "transit_index" : "transit_index"
+  },
+  "fields" : [
+    {
+      "name" : "GEOID",
+      "type" : "esriFieldTypeString",
+      "alias" : "GEOID",
+      "length" : 12
+    },
+    {
+      "name" : "transit_index",
+      "type" : "esriFieldTypeSmallInteger",
+      "alias" : "transit_index"
+    }
+  ],
+  "features" : [
+    {
+      "attributes" : {
+        "GEOID" : "360595172005",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594097003",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595207003",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595200012",
+        "transit_index" : 70
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595204011",
+        "transit_index" : 70
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594156006",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595203001",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594157002",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594167013",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595208004",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595207002",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594111004",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594109002",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595205011",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594112002",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594083004",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594083007",
+        "transit_index" : 70
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594083006",
+        "transit_index" : 70
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594085005",
+        "transit_index" : 70
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594152011",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595207001",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594110001",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594112003",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593040012",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594111002",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594162023",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594162022",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594111003",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594110003",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594151012",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594152013",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594148004",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594148003",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594149001",
+        "transit_index" : 70
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594096003",
+        "transit_index" : 70
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594149006",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594152023",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594133005",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594165004",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594142011",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595193003",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595192005",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594126001",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594140013",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595217005",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595218022",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594137002",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594169001",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594151023",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594151024",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594156004",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594158021",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594161001",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594155002",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595193004",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595191004",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595190004",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595190003",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593038002",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595220003",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595218013",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595199002",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593041002",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595174004",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595174003",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595174002",
+        "transit_index" : 70
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594110005",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594113011",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594112001",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594116003",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595190002",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594118001",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594106007",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594106006",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594106005",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595174001",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595173021",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595173022",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595173023",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595173024",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595173011",
+        "transit_index" : 70
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595172004",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593009004",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593009003",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594106004",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594106002",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594106001",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594105004",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594105006",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594105005",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594104001",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594103003",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594103002",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594103001",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595172002",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595172001",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593009002",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593009001",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593008003",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593008002",
+        "transit_index" : 100
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593008001",
+        "transit_index" : 100
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593007002",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593006005",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594156003",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594160001",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594162011",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595171022",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595171021",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595171012",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595171015",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595171014",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595171013",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595170003",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593006004",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595217004",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595214001",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595217003",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595214002",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595214004",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594102001",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595216024",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595216023",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594109003",
+        "transit_index" : 70
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595218012",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594162012",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594163003",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594168012",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595190001",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595191001",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595195001",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595196022",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595215005",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593006002",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593006001",
+        "transit_index" : 70
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593005004",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593005002",
+        "transit_index" : 70
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593005001",
+        "transit_index" : 70
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593004002",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593004001",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593003004",
+        "transit_index" : 70
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593003003",
+        "transit_index" : 70
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593003002",
+        "transit_index" : 70
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593003001",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595219021",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594109001",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595215003",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595216021",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595216022",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594105001",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595216013",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594116005",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594112004",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594123021",
+        "transit_index" : 70
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594124001",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594070004",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594106003",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594119011",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594124003",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594123023",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594115002",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594117005",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594117004",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594118004",
+        "transit_index" : 100
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594118005",
+        "transit_index" : 100
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594118006",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594064005",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594123011",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594123024",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594131004",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595227001",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593006006",
+        "transit_index" : 100
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593006003",
+        "transit_index" : 70
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593007005",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593007004",
+        "transit_index" : 100
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593007003",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593007001",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593019003",
+        "transit_index" : 100
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593020003",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593021013",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594114002",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594117003",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594122005",
+        "transit_index" : 70
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594121002",
+        "transit_index" : 70
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594130012",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594130023",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594102004",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594102003",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594101004",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594101005",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594101006",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594101003",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594101001",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594099005",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594132003",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594132005",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594138031",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594138032",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594138033",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594138034",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594138043",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594142023",
+        "transit_index" : 100
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594143032",
+        "transit_index" : 100
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594143033",
+        "transit_index" : 100
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594143041",
+        "transit_index" : 100
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594148002",
+        "transit_index" : 70
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594148006",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594148007",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594099003",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594099002",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594098002",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594098004",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594098003",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594072013",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595170001",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594120006",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594043003",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594043002",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594043001",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593041001",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594154014",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594154011",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593039003",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593039002",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593039001",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593038005",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593038003",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593038001",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593037005",
+        "transit_index" : 100
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593037004",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593001004",
+        "transit_index" : 70
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593001003",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593001001",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594054006",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594054005",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594054004",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594054003",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594054002",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594054001",
+        "transit_index" : 100
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593023003",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593025012",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593025021",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593027001",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593031011",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593032013",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593032011",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593033013",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593040023",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593040024",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593042031",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594154023",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594157004",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594160004",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594161003",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594164011",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594164012",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594164013",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594164021",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594164022",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594168011",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594168021",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594169003",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595170002",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595172003",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595173013",
+        "transit_index" : 70
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595175002",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595177014",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595179022",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595181002",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593030005",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593030004",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593030001",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593029003",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594051003",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594051002",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594051001",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594050004",
+        "transit_index" : 100
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594050003",
+        "transit_index" : 100
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594050002",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594050001",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594049022",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594049021",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594049014",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594049013",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594049012",
+        "transit_index" : 100
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594049011",
+        "transit_index" : 100
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594149005",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595210005",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594153001",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594097001",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595198012",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595211001",
+        "transit_index" : 70
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595211002",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594143011",
+        "transit_index" : 100
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594163004",
+        "transit_index" : 70
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595218011",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595210001",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595209005",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594134004",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594075022",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594135001",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593016003",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593016002",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593016001",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593015002",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594055005",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594065014",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594068022",
+        "transit_index" : 100
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594071014",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594074012",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594075013",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594075024",
+        "transit_index" : 100
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594076003",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594078013",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593009005",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594107006",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594111001",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594116002",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594119023",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594121004",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594123012",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594123022",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594124005",
+        "transit_index" : 100
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594125001",
+        "transit_index" : 70
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594125003",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594126003",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594149004",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594113022",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594084002",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595183003",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595187005",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595193005",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595193002",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595194004",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594048004",
+        "transit_index" : 100
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594048003",
+        "transit_index" : 100
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594048002",
+        "transit_index" : 100
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594072043",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594073021",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594079003",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594085001",
+        "transit_index" : 70
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594086002",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594095003",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594103004",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594107005",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594113012",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594113021",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594137004",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594078021",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594145023",
+        "transit_index" : 70
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594076006",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594077002",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594080006",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594075021",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594079002",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594074021",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594128002",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594129001",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594135005",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594071021",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594135006",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594136005",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594143012",
+        "transit_index" : 100
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594139001",
+        "transit_index" : 100
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594084004",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594140014",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594142021",
+        "transit_index" : 100
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594080001",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594081002",
+        "transit_index" : 70
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594082005",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594081006",
+        "transit_index" : 70
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594087003",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595183002",
+        "transit_index" : 70
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594078012",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594079001",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594080002",
+        "transit_index" : 70
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594083003",
+        "transit_index" : 70
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594085002",
+        "transit_index" : 70
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594086003",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594088007",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595186001",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595189002",
+        "transit_index" : 100
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595195005",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595198011",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595199001",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594127002",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594129004",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593024004",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593024005",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593025022",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593031022",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593031023",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593031024",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593032021",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593032022",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593039004",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593041003",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594089005",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594076001",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594144001",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595198022",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595190005",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595192003",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595211005",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594166001",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594131002",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594166003",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594165002",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594134002",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594118003",
+        "transit_index" : 100
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594119013",
+        "transit_index" : 100
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594114004",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594120005",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594128001",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595199003",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595199004",
+        "transit_index" : 70
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595200014",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595200015",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595200024",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595201001",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595201002",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595201003",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595201004",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595203005",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594128003",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595190006",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593042021",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595188002",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595188001",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595187004",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595187003",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595187002",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595187001",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595186003",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594137003",
+        "transit_index" : 100
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595211003",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595212001",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595209001",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594145011",
+        "transit_index" : 70
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594169002",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595209002",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594110002",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594108001",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595183001",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595182043",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595220004",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595214005",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594120001",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594102002",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595217002",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595213012",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595214003",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594127001",
+        "transit_index" : 70
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595209004",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595201005",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595202004",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595202001",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593042032",
+        "transit_index" : 100
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593042033",
+        "transit_index" : 100
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593042034",
+        "transit_index" : 100
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594117001",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594107003",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594160003",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595202003",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594152022",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594118002",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594122003",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594136002",
+        "transit_index" : 100
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594162021",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594134003",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595203006",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595203007",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595208001",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595186004",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594060011",
+        "transit_index" : 100
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594059003",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594059002",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594059001",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594058001",
+        "transit_index" : 100
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594058004",
+        "transit_index" : 100
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594058003",
+        "transit_index" : 100
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594058002",
+        "transit_index" : 100
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594057003",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594057005",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594057004",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595208002",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594090005",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594091002",
+        "transit_index" : 70
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594094001",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594090003",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594070005",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594133002",
+        "transit_index" : 70
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594136003",
+        "transit_index" : 100
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594134001",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594066001",
+        "transit_index" : 100
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594073011",
+        "transit_index" : 100
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595180005",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595180004",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595180003",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595180002",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595180001",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595179011",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595179013",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594073023",
+        "transit_index" : 100
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594073022",
+        "transit_index" : 100
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594166002",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594166006",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594163001",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594062011",
+        "transit_index" : 100
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593042022",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594062021",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594163002",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594115001",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594074011",
+        "transit_index" : 100
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594057001",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594056004",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593029002",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593029001",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593028007",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593028006",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593028005",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593028004",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593028003",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593028002",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593028001",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593027003",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593027002",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593026002",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594065012",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594076005",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594080003",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594073024",
+        "transit_index" : 100
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594074015",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594135004",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595185023",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595185021",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595185013",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595185012",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595185011",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595179012",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595178023",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593021012",
+        "transit_index" : 70
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593021011",
+        "transit_index" : 70
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593020002",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593020001",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593019002",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594077004",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594077003",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594087005",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594087006",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594087004",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594097002",
+        "transit_index" : 70
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594099001",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594099004",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594099006",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594100001",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594100002",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594104004",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594108003",
+        "transit_index" : 70
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595197022",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595198024",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595198023",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594119012",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594119021",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595204023",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594062022",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594144002",
+        "transit_index" : 100
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594144005",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594076002",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595206006",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594121001",
+        "transit_index" : 70
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595205024",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594110004",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594075012",
+        "transit_index" : 100
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594075011",
+        "transit_index" : 100
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594075023",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594071024",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594129003",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593026001",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593025011",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594048001",
+        "transit_index" : 100
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594047004",
+        "transit_index" : 70
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594047003",
+        "transit_index" : 70
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594047002",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594047001",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594046003",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594046002",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594046001",
+        "transit_index" : 70
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594045005",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594045004",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594045003",
+        "transit_index" : 70
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594045002",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594045001",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595184003",
+        "transit_index" : 70
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595184002",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595184001",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595183004",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594056003",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594056002",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594056001",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594055004",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594055003",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594055002",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594055001",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595182011",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595181003",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593019001",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593018005",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593018003",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593010003",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593012002",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593012005",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593012003",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593015003",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595197042",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594130022",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594167011",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594071012",
+        "transit_index" : 100
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595198021",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594133007",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594131005",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594124002",
+        "transit_index" : 70
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595200023",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595197043",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594167015",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594113025",
+        "transit_index" : 70
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594167021",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595204013",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594120002",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594151021",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594153003",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594154012",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594148001",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594156002",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594152021",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594139003",
+        "transit_index" : 100
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594115003",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594147003",
+        "transit_index" : 70
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595197023",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594140012",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594074014",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594121005",
+        "transit_index" : 70
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594119022",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595210002",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595205022",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594137001",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594093002",
+        "transit_index" : 70
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595191005",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594092005",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594093004",
+        "transit_index" : 70
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595192004",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594088002",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594090004",
+        "transit_index" : 70
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594088006",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594044004",
+        "transit_index" : 70
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594044003",
+        "transit_index" : 70
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594044002",
+        "transit_index" : 70
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594130021",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594131001",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594133001",
+        "transit_index" : 70
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594137005",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594138041",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594138042",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594142013",
+        "transit_index" : 100
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594143031",
+        "transit_index" : 100
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595181001",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595180006",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593024003",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593024002",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593024001",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593023001",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593022003",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593022002",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593022001",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593021024",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593021023",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593016004",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593018004",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593021014",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593030002",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593033012",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593037003",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593040021",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593042042",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595182012",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594141005",
+        "transit_index" : 100
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594139004",
+        "transit_index" : 100
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594141003",
+        "transit_index" : 100
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595197024",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595199005",
+        "transit_index" : 70
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594107001",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594107002",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594104002",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594150005",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594141001",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594081003",
+        "transit_index" : 70
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594082002",
+        "transit_index" : 70
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594078014",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594092004",
+        "transit_index" : 70
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594093003",
+        "transit_index" : 70
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594079004",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594092001",
+        "transit_index" : 70
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594155001",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594082007",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594089003",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594082006",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594080004",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594082004",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594082001",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594082003",
+        "transit_index" : 70
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594091004",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594081004",
+        "transit_index" : 70
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594146003",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594152024",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595208003",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595219022",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595219024",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595219023",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595220005",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595220002",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595227002",
+        "transit_index" : 70
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594072042",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593021022",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593021021",
+        "transit_index" : 70
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594044001",
+        "transit_index" : 70
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593001002",
+        "transit_index" : 70
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593004003",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593004004",
+        "transit_index" : 70
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593004005",
+        "transit_index" : 70
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593005005",
+        "transit_index" : 70
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595182032",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595182033",
+        "transit_index" : 70
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595182031",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595182042",
+        "transit_index" : 70
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595182041",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595185022",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595177013",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595177011",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595176004",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595176003",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595176002",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594085004",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594096004",
+        "transit_index" : 70
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594083002",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593042023",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594085003",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594126002",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594124004",
+        "transit_index" : 100
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595206002",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594080005",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595206005",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595205013",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595206001",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594114003",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594084003",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594092003",
+        "transit_index" : 70
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594083001",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594088004",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594091005",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594088005",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594088003",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594087001",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595200022",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594086001",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594088001",
+        "transit_index" : 70
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594078011",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594083005",
+        "transit_index" : 70
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594074022",
+        "transit_index" : 100
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594108004",
+        "transit_index" : 100
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594109004",
+        "transit_index" : 70
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594117002",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593005006",
+        "transit_index" : 100
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593005003",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593008004",
+        "transit_index" : 100
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593010002",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594157003",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594158024",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594161004",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594161002",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594168022",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595171011",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595176001",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595175003",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595175001",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595174005",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593015001",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593014002",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593014001",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593013005",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593013004",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594069002",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594127003",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595213022",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595203002",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594113024",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595205021",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595205012",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595205025",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594071013",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594122001",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595200013",
+        "transit_index" : 70
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595202002",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594116004",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594149003",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594157001",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594091001",
+        "transit_index" : 70
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594091003",
+        "transit_index" : 70
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594147001",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594084001",
+        "transit_index" : 70
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593040011",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594154013",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594154021",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595216014",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595216011",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595217001",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595216012",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594120004",
+        "transit_index" : 70
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594120003",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594107004",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595177012",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595182013",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594132002",
+        "transit_index" : 70
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594145014",
+        "transit_index" : 70
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594158022",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594158023",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594158025",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593013003",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593013002",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593013001",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593012004",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593012001",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593011023",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593011022",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594090002",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594090001",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594092006",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594093001",
+        "transit_index" : 70
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594094003",
+        "transit_index" : 70
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595204022",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594116001",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594125002",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595204014",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594122002",
+        "transit_index" : 70
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594089001",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594087002",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594089002",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594089004",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594095001",
+        "transit_index" : 70
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594092002",
+        "transit_index" : 70
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594094002",
+        "transit_index" : 70
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595209003",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594149002",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595215001",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594156001",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595210003",
+        "transit_index" : 70
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594147002",
+        "transit_index" : 70
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595210004",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594148005",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595215004",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594130024",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595218014",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595215002",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594071023",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594065011",
+        "transit_index" : 100
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595203003",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595203004",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594105002",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595207004",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594162024",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594130011",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595197041",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595197033",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595179021",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595186002",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595187006",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595227003",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594067013",
+        "transit_index" : 100
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594140011",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594098001",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594095002",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594096002",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594096001",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594097004",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594100003",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594101002",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594103005",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594105003",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595204012",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595205023",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595218021",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360599801001",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594141004",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593038004",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594139005",
+        "transit_index" : 100
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594131003",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594113023",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594081005",
+        "transit_index" : 70
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594146002",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594076004",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594146004",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594144004",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595197032",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595197031",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595196021",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595196014",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595196013",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595196012",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595196011",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595195003",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595195004",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595195002",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595194003",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594072012",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594072011",
+        "transit_index" : 100
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594070001",
+        "transit_index" : 100
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594069004",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360599811001",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360599821001",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360599904000",
+        "transit_index" : null
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593022004",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593023002",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594129002",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594135003",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594136004",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594139002",
+        "transit_index" : 100
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594140023",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594143034",
+        "transit_index" : 100
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594143042",
+        "transit_index" : 100
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594069003",
+        "transit_index" : 100
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594066005",
+        "transit_index" : 100
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594066004",
+        "transit_index" : 100
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594066003",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594066002",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594065016",
+        "transit_index" : 70
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594065015",
+        "transit_index" : 70
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594064004",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594064003",
+        "transit_index" : 70
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594064002",
+        "transit_index" : 70
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594064001",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594063004",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593037002",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593037001",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593036006",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594151022",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594121003",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594166004",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595205014",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595204021",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594146001",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595197021",
+        "transit_index" : 70
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594142012",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594133003",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593040022",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594122004",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595213023",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595213024",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595213021",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595213011",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595212003",
+        "transit_index" : 70
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595212002",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594167014",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594167022",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594166005",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594167023",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594150002",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594150001",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593029004",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594151025",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593042041",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593042043",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594044005",
+        "transit_index" : 70
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594047005",
+        "transit_index" : 70
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594047006",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594059004",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594059005",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594112005",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594113013",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594114006",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594114005",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360595200011",
+        "transit_index" : 1
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594160002",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594140022",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593036005",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593036004",
+        "transit_index" : 100
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593036003",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593036002",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593036001",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593035006",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593035005",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593035004",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593035003",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593035002",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593035001",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593034002",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593034001",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360593033024",
+        "transit_index" : 90
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594053025",
+        "transit_index" : 100
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594053024",
+        "transit_index" : 100
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594053023",
+        "transit_index" : 100
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594133004",
+        "transit_index" : 80
+      }
+    },
+    {
+      "attributes" : {
+        "GEOID" : "360594069001",
+        "transit_index" : 100
+      }
+    }
+  ]
+}

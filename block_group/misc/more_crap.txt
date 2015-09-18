@@ -1,0 +1,14 @@
+360593028004
+
+
+http://egis.hud.gov/ArcGIS/rest/services/oshc/Fhea/MapServer/5/query?text=&geometry=&geometryType=esriGeometryPoint&inSR=&spatialRel=esriSpatialRelIntersects&relationParam=&objectIds=&where=GEOID+%3D+%27
+
+360593028004
+
+%27&time=&returnCountOnly=false&returnIdsOnly=false&returnGeometry=false&maxAllowableOffset=&outSR=&outFields=GEOID%2CTRANSIT_INDEX&f=pjson
+
+
+360811032024
+
+
+http://egis.hud.gov/ArcGIS/rest/services/oshc/Fhea/MapServer/5
